@@ -2,7 +2,8 @@
 
 Crypto Digest is a community powered AI that can generate summaries of what is happening in the cryptoverse. Most of the information about crypto projects is lost in conversations, interviews, tweets.
 
-Current alpha deployment can be found at cryptodigest.vercel.com
+
+Current alpha deployment can be found at [this LINK](https://scrape-ezkddw517-mohitkumar1991.vercel.app/)
 
 The goal of Crypto Digest is to build an AI solution that can understand information about crypto projects and 
 1. Produce quality summaries delivered using a newsletter 
